@@ -36,3 +36,45 @@ In this project, we have implemented data analytics using Power BI to empower At
 * Distributors: Entities that purchase products in bulk from manufacturers and then sell them to retailers or other businesses. They help bridge the gap between manufacturers and retailers.
 
 * Consumer: The end-user or customer who purchases and uses the products or services offered by a company.
+## Company's Background
+AtliQ Hardware is a rapidly growing company that specializes in selling computers and computer accessories through three primary channels:
+
+1. Retailers
+2. Direct Sales
+3. Distributors
+With a global presence, the company has expanded its business operations significantly in recent years.
+## Dataset
+Dimension Tables
+dim_customer
+Contains details of customers across markets and platforms.
+27 distinct markets.
+75 distinct customers.
+2 types of platforms: Brick & Mortar (Physical/offline store), E-commerce (Online Store).
+Three channels: Retailer, Direct, and Distributors.
+dim_market
+Contains details of markets, sub-zones, and regions.
+27 distinct markets.
+7 sub-zones.
+4 regions: APAC, EU, NA, LATAM.
+dim_product
+Contains details of product divisions, categories, and variants.
+Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage.
+14 different categories (e.g., Internal HDD, keyboard).
+Different variants available for the same product.
+Fact Tables
+fact_forecast_monthly
+Used for forecasting customer needs in advance.
+Helps improve customer satisfaction and reduce warehouse storage costs.
+Denormalized for analytical use.
+Date of the month replaced by start date.
+Columns include forecast quantity needed by the customer.
+fact_sales_monthly
+Similar to fact_forecast_monthly with actual sold quantities.
+Additional Tables
+gdb056
+freight_cost: Details of travel and other costs for each market by fiscal year.
+gross_price: Details of gross prices with product code.
+manufacturing_cost: Details of manufacturing costs with product code and year.
+Pre_invoice_dedutions: Details of pre-invoice deduction percentages for each customer by year.
+Post_invoice_deductions: Details of post-invoice and other deductions.
+This dataset provides comprehensive information about customers, markets, products, and various costs. The dimension tables offer static data, while the fact tables provide transactional and forecasting insights. Analyzing this dataset can lead to valuable insights for optimizing sales, costs, and customer satisfaction.
