@@ -42,6 +42,7 @@ AtliQ Hardware is a rapidly growing company that specializes in selling computer
 1. Retailers
 2. Direct Sales
 3. Distributors
+   
 With a global presence, the company has expanded its business operations significantly in recent years.
 ## Dataset
 ### Dimension Tables
