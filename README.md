@@ -67,7 +67,7 @@ With a global presence, the company has expanded its business operations signifi
 * Denormalized for analytical use.
 * Date of the month replaced by start date.
 * Columns include forecast quantity needed by the customer.
-### <code>fact_sales_monthly</code>
+<code>fact_sales_monthly</code>
 * Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
 ### Additional Tables
 <code> gdb056 </code>
@@ -76,5 +76,6 @@ With a global presence, the company has expanded its business operations signifi
 * <code>manufacturing_cost</code>: Details of manufacturing costs with product code and year.
 * <code>Pre_invoice_dedutions</code>: Details of pre-invoice deduction percentages for each customer by year.
 * <code>Post_invoice_deductions</code>: Details of post-invoice and other deductions.
+
   This dataset provides comprehensive information about customers, markets, products, and various costs. The dimension tables offer static data, while the fact tables 
    provide transactional and forecasting insights. Analyzing this dataset can lead to valuable insights for optimizing sales, costs, and customer satisfaction.
