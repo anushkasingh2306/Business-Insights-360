@@ -69,6 +69,12 @@ With a global presence, the company has expanded its business operations signifi
 * Columns include forecast quantity needed by the customer.
 ### fact_sales_monthly
 * Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
-* <mark>
-^^high^^
-<code> tjigh </code>
+### Additional Tables
+<code> gdb056 </code>
+* <code>freight_cost: Details of travel and other costs for each market by fiscal year.
+* gross_price: Details of gross prices with product code.
+* manufacturing_cost: Details of manufacturing costs with product code and year.
+* Pre_invoice_dedutions: Details of pre-invoice deduction percentages for each customer by year.
+* Post_invoice_deductions: Details of post-invoice and other deductions.
+  This dataset provides comprehensive information about customers, markets, products, and various costs. The dimension tables offer static data, while the fact tables 
+   provide transactional and forecasting insights. Analyzing this dataset can lead to valuable insights for optimizing sales, costs, and customer satisfaction.
