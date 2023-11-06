@@ -61,4 +61,11 @@ With a global presence, the company has expanded its business operations signifi
 * Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage.
 * 14 different categories (e.g., Internal HDD, keyboard).
 * Different variants available for the same product.
-### 
+### fact_forecast_monthly
+* Used for forecasting customer needs in advance.
+* Helps improve customer satisfaction and reduce warehouse storage costs.
+* Denormalized for analytical use.
+* Date of the month replaced by start date.
+* Columns include forecast quantity needed by the customer.
+### fact_sales_monthly
+* Similar to ### fact_forecast_monthly with actual sold quantities.
