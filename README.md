@@ -68,4 +68,4 @@ With a global presence, the company has expanded its business operations signifi
 * Date of the month replaced by start date.
 * Columns include forecast quantity needed by the customer.
 ### fact_sales_monthly
-* Similar to ==fact_forecast_monthly== with actual sold quantities.
+* Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
