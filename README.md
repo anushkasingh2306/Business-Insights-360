@@ -44,24 +44,25 @@ AtliQ Hardware is a rapidly growing company that specializes in selling computer
 3. Distributors
 With a global presence, the company has expanded its business operations significantly in recent years.
 ## Dataset
-## Dimension Tables
-### dim_customer
+### Dimension Tables
+#### <code>dim_customer</code>
 * Contains details of customers across markets and platforms.
 * 27 distinct markets.
 * 75 distinct customers.
 * 2 types of platforms: Brick & Mortar (Physical/offline store), E-commerce (Online Store).
 * Three channels: Retailer, Direct, and Distributors.
-### dim_market
+#### <code>dim_market</code>
 * Contains details of markets, sub-zones, and regions.
 * 27 distinct markets.
 * 7 sub-zones.
 * 4 regions: APAC, EU, NA, LATAM.
-### dim_product
+#### <code>dim_product</code>
 * Contains details of product divisions, categories, and variants.
 * Divisions: P & A, Peripherals, Accessories, PC, Notebook, Desktop, N & S, Networking, Storage.
 * 14 different categories (e.g., Internal HDD, keyboard).
 * Different variants available for the same product.
-### fact_forecast_monthly
+### Fact Tables
+#### <code>fact_forecast_monthly</code>
 * Used for forecasting customer needs in advance.
 * Helps improve customer satisfaction and reduce warehouse storage costs.
 * Denormalized for analytical use.
@@ -70,7 +71,7 @@ With a global presence, the company has expanded its business operations signifi
 #### <code>fact_sales_monthly</code>
 * Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
 ### Additional Tables
-<code> gdb056 </code>
+#### <code> gdb056 </code>
 * <code>freight_cost</code>: Details of travel and other costs for each market by fiscal year.
 * <code>gross_price</code> Details of gross prices with product code.
 * <code>manufacturing_cost</code>: Details of manufacturing costs with product code and year.
