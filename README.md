@@ -69,3 +69,5 @@ With a global presence, the company has expanded its business operations signifi
 * Columns include forecast quantity needed by the customer.
 ### fact_sales_monthly
 * Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
+* <mark>
+^^high^^
