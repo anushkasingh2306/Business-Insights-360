@@ -67,7 +67,7 @@ With a global presence, the company has expanded its business operations signifi
 * Denormalized for analytical use.
 * Date of the month replaced by start date.
 * Columns include forecast quantity needed by the customer.
-<code>fact_sales_monthly</code>
+#### <code>fact_sales_monthly</code>
 * Similar to <mark>fact_forecast_monthly</mark> with actual sold quantities.
 ### Additional Tables
 <code> gdb056 </code>
