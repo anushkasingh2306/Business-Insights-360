@@ -87,3 +87,5 @@ Data modeling plays a pivotal role and serves as the foundation for generating m
 In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
 
 Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
+![datamodel (1)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/e33c7ae1-a3fc-4545-8981-32301f9f8377)
+
