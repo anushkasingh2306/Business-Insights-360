@@ -90,4 +90,17 @@ Remember, a robust data model is the cornerstone of effective data analysis and 
 ![datamodel (1)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/e33c7ae1-a3fc-4545-8981-32301f9f8377)
 ## Dashboard
 You can find the interactive dashboard [here](https://www.novypro.com/project/business-insights-360-71)
+### Home View
+![Screenshot (3)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/cd029e47-8368-41ed-bbe7-5c0d6f676986)
+### Finance View
+<img width="604" alt="Screenshot 2023-11-06 164354" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/133ad3e6-7d0e-495b-b31b-eada27f36d25">
+### Sales View
+<img width="601" alt="Screenshot 2023-11-06 164459" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/6b71daa0-1e83-44f8-9aa4-33ac8ee506bc">
+### Marketing View
+<img width="599" alt="Screenshot 2023-11-06 164541" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/1ba3fb02-ab8a-48bd-b7d7-5041ef130d3c">
+### Supply Chain View
+<img width="604" alt="Screenshot 2023-11-06 164636" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/2e8179c2-fb50-45e4-b583-ad9a29db3ee6">
+### Executive View
+<img width="602" alt="Screenshot 2023-11-06 164843" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/edee99b3-e6f7-4a60-8d1f-43936ee0c232">
+
 
