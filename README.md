@@ -88,4 +88,6 @@ In the context of this project, we have meticulously followed the Snowflake data
 
 Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
 ![datamodel (1)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/e33c7ae1-a3fc-4545-8981-32301f9f8377)
+## Dashboard
+You can find the interactive dashboard [here](https://www.novypro.com/project/business-insights-360-71)
 
