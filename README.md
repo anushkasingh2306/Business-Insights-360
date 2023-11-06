@@ -104,24 +104,21 @@ You can find the interactive dashboard [here](https://www.novypro.com/project/bu
 ### Sales View
 
 
-<img width="601" alt="Screenshot 2023-11-06 164459" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/6b71daa0-1e83-44f8-9aa4-33ac8ee506bc">
-
+![Screenshot (9)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/a8aae420-0243-4f53-9f50-12b8a7d67449)
 
 ### Marketing View
 
 
-<img width="599" alt="Screenshot 2023-11-06 164541" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/1ba3fb02-ab8a-48bd-b7d7-5041ef130d3c">
+![Screenshot (11)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/4252c67a-21fb-465a-ae6f-fe192dfea9b4)
 
 
 ### Supply Chain View
 
-
-<img width="604" alt="Screenshot 2023-11-06 164636" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/2e8179c2-fb50-45e4-b583-ad9a29db3ee6">
-
+![Screenshot (13)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/2ade8fae-3c9a-401c-b8ee-bc69ce57a7f7)
 
 ### Executive View
 
 
-<img width="602" alt="Screenshot 2023-11-06 164843" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/edee99b3-e6f7-4a60-8d1f-43936ee0c232">
+![Screenshot (14)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/54bf4d3f-28e7-4ff5-83f5-d82371b9d934)
 
 
