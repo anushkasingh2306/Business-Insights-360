@@ -96,7 +96,8 @@ You can find the interactive dashboard [here](https://www.novypro.com/project/bu
 
 
 
-![Screenshot (8)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/2d24e973-59dc-4068-a8c8-0bd40e7a495e)
+![Screenshot (8)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/e87b8b12-2d3a-4651-b204-f0230d8da03f)
+
 
 
 
