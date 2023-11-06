@@ -95,7 +95,8 @@ You can find the interactive dashboard [here](https://www.novypro.com/project/bu
 ### Finance View
 
 
-<img width="604" alt="Screenshot 2023-11-06 164354" src="https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/57fc1c40-0c91-4f5d-b25e-dbb79d4ae770">
+
+![Screenshot (8)](https://github.com/anushkasingh2306/Business-Insights-360/assets/123302995/2d24e973-59dc-4068-a8c8-0bd40e7a495e)
 
 
 
